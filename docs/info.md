@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Seg 1 
+Seg 1 seg 1 seg 1 
 
 ## How to test
 
-Display
+Display display display
 
 ## External hardware
 
-Action
+Action, action action 
